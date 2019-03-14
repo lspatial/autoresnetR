@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552537048021.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "19F0251",
+    "lastKnownWriteTime" : 1552538122,
+    "last_content_update" : 1552538122194,
+    "path" : "~/RWkspace/resautonet/man/ResautoDownscale.Rd",
+    "project_path" : "man/ResautoDownscale.Rd",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "18"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552537519512.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "82DBF5F",
+    "lastKnownWriteTime" : 1546018042,
+    "last_content_update" : 1546018042,
+    "path" : "~/RWkspace/resautonet/man/keras_r2.Rd",
+    "project_path" : "man/keras_r2.Rd",
+    "properties" : {
+        "cursorPosition" : "6,8",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

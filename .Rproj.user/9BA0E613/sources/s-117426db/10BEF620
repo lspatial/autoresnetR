@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552538145509.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "10BEF620",
+    "lastKnownWriteTime" : 1552538174,
+    "last_content_update" : 1552538174351,
+    "path" : "~/RWkspace/resautonet/man/AutoEncoderModel.Rd",
+    "project_path" : "man/AutoEncoderModel.Rd",
+    "properties" : {
+        "cursorPosition" : "42,0",
+        "scrollLine" : "16"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

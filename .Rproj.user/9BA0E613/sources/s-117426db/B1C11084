@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545924902908.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B1C11084",
+    "lastKnownWriteTime" : 1545924892,
+    "last_content_update" : 1545924892,
+    "path" : "~/RWkspace/resautonet/src/rcpparma_hello_world.cpp",
+    "project_path" : "src/rcpparma_hello_world.cpp",
+    "properties" : {
+        "cursorPosition" : "35,2",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545925001807.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1BEDA3E7",
+    "lastKnownWriteTime" : 1545924943,
+    "last_content_update" : 1545924943,
+    "path" : "~/RWkspace/resautonet/R/RcppExports.R",
+    "project_path" : "R/RcppExports.R",
+    "properties" : {
+        "cursorPosition" : "8,49",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

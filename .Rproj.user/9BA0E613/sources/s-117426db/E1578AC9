@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552324394740.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E1578AC9",
+    "lastKnownWriteTime" : 1546018031,
+    "last_content_update" : 1546018031,
+    "path" : "~/RWkspace/resautonet/R/metrics.R",
+    "project_path" : "R/metrics.R",
+    "properties" : {
+        "cursorPosition" : "0,18",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

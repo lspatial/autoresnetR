@@ -1,0 +1,17 @@
+Package: resautonet
+Type: Package
+Title: Residual Autoencoder-based Deep Network and Downscaling with Keras Support
+Version: 1.0
+Date: 2019-03-13
+Author: Lianfa Li
+Maintainer: Lianfa Li <lspatial@gmail.com>
+Description:  Residual Autoencoder-based Deep Network and Downscaling functions
+Depends: R (>= 3.1)
+Imports: Rcpp (>= 1.0.0),keras,rstack
+LinkingTo: Rcpp, RcppArmadillo
+SystemRequirements: C++11
+License: GPL
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: yes
+RoxygenNote: 6.1.1

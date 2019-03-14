@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552538260305.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2514411832",
+    "id" : "9090E928",
+    "lastKnownWriteTime" : 1552538331,
+    "last_content_update" : 1552538331161,
+    "path" : "~/RWkspace/resautonet/man/resautonet-package.Rd",
+    "project_path" : "man/resautonet-package.Rd",
+    "properties" : {
+        "cursorPosition" : "25,3",
+        "scrollLine" : "7"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
